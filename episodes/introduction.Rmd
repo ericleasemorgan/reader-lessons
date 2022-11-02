@@ -19,6 +19,10 @@ exercises: 2
 
 ## Introduction
 
+[Eric was here.]
+
+[`And he was here too.`]
+
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
 [R Markdown][r-markdown] for dynamic files that can render code into output
