@@ -1,0 +1,8 @@
+# start.r - launch the Carpentries lesson editing environment
+
+# require
+library("fs")
+library("sandpaper")
+
+# do the work
+sandpaper::serve()

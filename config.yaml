@@ -60,6 +60,7 @@ contact: 'emorgan@nd.edu'
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
+- quick-start.Rmd
 
 # Information for Learners
 learners: 
