@@ -1,5 +1,5 @@
 ---
-title: 'Introduction: What is the Reader?'
+title: 'What is the Reader?'
 teaching: 10
 exercises: 2
 ---
