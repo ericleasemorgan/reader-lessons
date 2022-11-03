@@ -8,6 +8,5 @@ Each episodes ought to take no more than thirty minutes to complete, and since t
 
 This lesson built with [The Carpentries Workbench][workbench]. 
 
-
 [workbench]: https://carpentries.github.io/sandpaper-docs
 
