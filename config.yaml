@@ -61,6 +61,7 @@ contact: 'emorgan@nd.edu'
 episodes: 
 - introduction.Rmd
 - quick-start.Rmd
+- configure.Rmd
 
 # Information for Learners
 learners: 
