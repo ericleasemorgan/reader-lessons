@@ -62,6 +62,10 @@ episodes:
 - introduction.Rmd
 - quick-start.Rmd
 - configure.Rmd
+- list-words.Rmd
+- browse-public-library.Rmd
+- build-your-library.Rmd
+- list-words-revisited.Rmd
 
 # Information for Learners
 learners: 
