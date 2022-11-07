@@ -66,6 +66,10 @@ episodes:
 - browse-public-library.Rmd
 - build-your-library.Rmd
 - list-words-revisited.Rmd
+- other-wordle.Rmd
+- other-antconc.Rmd
+- other-openrefine.Rmd
+- other-tmt.Rmd
 
 # Information for Learners
 learners: 
